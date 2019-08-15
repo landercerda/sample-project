@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1050310772077-nu704pt4d265058v13ceomf4dktcq5vp.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://landerpracticeproject.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1050310772077</string>
+    <string name="google_api_key" translatable="false">AIzaSyBhhpqSWp4ZmireZCZ2qiU7eic5ZDtdx6k</string>
+    <string name="google_app_id" translatable="false">1:1050310772077:android:79251ff0eaac35dd</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBhhpqSWp4ZmireZCZ2qiU7eic5ZDtdx6k</string>
+    <string name="google_storage_bucket" translatable="false">landerpracticeproject.appspot.com</string>
+    <string name="project_id" translatable="false">landerpracticeproject</string>
+</resources>

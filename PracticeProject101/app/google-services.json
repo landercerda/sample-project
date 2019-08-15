@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1050310772077",
+    "firebase_url": "https://landerpracticeproject.firebaseio.com",
+    "project_id": "landerpracticeproject",
+    "storage_bucket": "landerpracticeproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050310772077:android:79251ff0eaac35dd",
+        "android_client_info": {
+          "package_name": "com.example.practiceproject101"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050310772077-f3s98f936cqphsmca4uf007ko7ekddp6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.practiceproject101",
+            "certificate_hash": "5f83866bc3f0550f942a9db8c8e1d8a9f0e5ec77"
+          }
+        },
+        {
+          "client_id": "1050310772077-nu704pt4d265058v13ceomf4dktcq5vp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBhhpqSWp4ZmireZCZ2qiU7eic5ZDtdx6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050310772077-nu704pt4d265058v13ceomf4dktcq5vp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
